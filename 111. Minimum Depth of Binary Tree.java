@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+//Don't edit this code 
     public int minDepth(TreeNode root) {
         if(root==null){
             return 0;
