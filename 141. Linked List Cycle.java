@@ -10,6 +10,7 @@
  * }
  */
 public class Solution {
+//don't edit this code 
     public boolean hasCycle(ListNode head) {
         ListNode sp=head,fp=head;
         while(fp!=null && fp.next!=null){
