@@ -1,4 +1,5 @@
 class Solution {
+//don't edit this code 
     public int tribonacci(int n) {
         int t1=0;
         int t2=1;
