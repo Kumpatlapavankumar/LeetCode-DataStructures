@@ -15,6 +15,7 @@
  */
 class Solution {
     private int postindex;
+//don't edit this code 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         postindex=postorder.length-1;
         return construct(inorder,postorder,0,inorder.length-1);
