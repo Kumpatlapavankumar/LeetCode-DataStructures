@@ -1,4 +1,5 @@
 class Solution {
+//don't edit this code 
     public int lastStoneWeightII(int[] nums) {
         int sum=0;
         for(int num:nums){
