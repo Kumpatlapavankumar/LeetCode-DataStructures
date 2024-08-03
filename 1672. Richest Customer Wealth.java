@@ -1,4 +1,5 @@
 class Solution {
+//don't edit this code 
     public int maximumWealth(int[][] accounts) {
         int k=0;
         for(int i=0;i<accounts.length;i++){
