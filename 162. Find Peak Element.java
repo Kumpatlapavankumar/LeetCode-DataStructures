@@ -1,4 +1,5 @@
 class Solution {
+//don't edit this code 
     public int findPeakElement(int[] nums) {
         int left=0;
         int right=nums.length-1;
