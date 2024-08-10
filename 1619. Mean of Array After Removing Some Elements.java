@@ -1,4 +1,5 @@
 class Solution {
+//Don't edit this code 
     public double trimMean(int[] arr) {
         double length=arr.length*0.05;
         Arrays.sort(arr);
