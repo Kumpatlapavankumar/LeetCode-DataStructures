@@ -10,6 +10,7 @@
  * }
  */
 public class Solution {
+//don't edit this code 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode curr1=headA;
         ListNode curr2=headB;
