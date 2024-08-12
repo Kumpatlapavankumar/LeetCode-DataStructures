@@ -1,4 +1,5 @@
 class Solution {
+//don't edit this code 
     public int timeRequiredToBuy(int[] tickets, int k) {
         int total=0;
         for(int i=0;i<tickets.length;i++){
