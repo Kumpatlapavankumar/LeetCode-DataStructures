@@ -1,5 +1,6 @@
 
 class Solution {
+    //donot edit this code 
     public boolean isSymmetric(TreeNode root) {
         if(root==null){
             return true;
