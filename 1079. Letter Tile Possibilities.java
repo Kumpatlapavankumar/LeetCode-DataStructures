@@ -2,7 +2,7 @@ class Solution {
     public int numTilePossibilities(String tiles) {
           int[] freq = new int[26];// Frequency array for letters A-Z
         for (char c : tiles.toCharArray()) //loop iterates over each character c in the input string tiles.
-        {
+        {//ss
             freq[c - 'A']++;
 //c - 'A' converts the character c to an index.freq[c - 'A']++ increments the count of that letter.
         }
