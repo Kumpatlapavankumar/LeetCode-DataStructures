@@ -3,6 +3,7 @@ class Solution {
         int res = Integer.MAX_VALUE;
         for (int val = 1; val <= 6; val++) {
             int topSwaps = 0, bottomSwaps = 0;
+            //initalize top and bottom swaps are zero
             boolean valid = true;
             for (int i = 0; i < tops.length; i++) {
                 if (tops[i] != val && bottoms[i] != val) {
