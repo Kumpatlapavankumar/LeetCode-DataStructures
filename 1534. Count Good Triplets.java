@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     public int countGoodTriplets(int[] arr, int a, int b, int c) {
         int count = 0;
         int n = arr.length;
