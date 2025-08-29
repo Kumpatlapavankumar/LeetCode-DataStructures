@@ -1,5 +1,5 @@
 import java.util.*;
-
+//donot edit this code
 class Solution {
     public String smallestEquivalentString(String s1, String s2, String baseStr) {
         Map<Character, List<Character>> adj = new HashMap<>();
