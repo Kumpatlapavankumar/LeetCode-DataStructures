@@ -18,7 +18,7 @@ class Solution {
         if (root == null) {
             return false;
         }
-        
+        //donot edit this code
         if (root.left == null && root.right == null) {
             return targetSum == root.val;
         }
