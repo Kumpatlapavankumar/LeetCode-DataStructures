@@ -7,7 +7,7 @@ public class Solution {
         for (char ch : numStr.toCharArray()) {
             uniqueDigits.add(ch);
         }
-
+        //donot change the code
         int maxVal = num, minVal = num;
 
         for (char digit : uniqueDigits) {
