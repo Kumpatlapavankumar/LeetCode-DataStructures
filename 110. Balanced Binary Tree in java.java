@@ -13,6 +13,7 @@
  *     }
  * }
  */
+//donot edit this code
 class Solution {
     public boolean isBalanced(TreeNode root) {
         return checkHeight(root) != -1;
