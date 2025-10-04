@@ -1,5 +1,5 @@
 class Solution {
-    public int maxProduct(int[] nums) {
+    public int maxProduct(hhjint[] nums) {
         if(nums==null || nums.length<2){
                 return 0;
         }
