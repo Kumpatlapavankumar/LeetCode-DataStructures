@@ -1,5 +1,6 @@
 class Solution {
     public int candy(int[] ratings) {
+        //donot edit this code
         int n = ratings.length;
         int cnt = 0;
         int[] candies = new int[n];
