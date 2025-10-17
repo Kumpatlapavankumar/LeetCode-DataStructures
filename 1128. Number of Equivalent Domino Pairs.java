@@ -1,5 +1,6 @@
 class Solution {
     public int numEquivDominoPairs(int[][] dominoes) {
+        //donot edit this code
         Map<String, Integer> map = new HashMap<>();
         int count = 0;
         for (int[] d : dominoes) {
