@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     public int numTilePossibilities(String tiles) {
           int[] freq = new int[26];// Frequency array for letters A-Z
         for (char c : tiles.toCharArray()) //loop iterates over each character c in the input string tiles.
