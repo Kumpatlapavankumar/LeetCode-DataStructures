@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     public int numberOfSubstrings(String s) {
         int count = 0;
         int left = 0;
