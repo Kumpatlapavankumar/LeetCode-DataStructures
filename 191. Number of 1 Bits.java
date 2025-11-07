@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     int number=0;
     public int hammingWeight(int n) {
         if(n==0){
